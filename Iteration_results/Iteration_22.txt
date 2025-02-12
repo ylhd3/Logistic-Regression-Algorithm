@@ -1,0 +1,125 @@
+Iteration 22 Evaluation Metrics
+
+---Train Data Split 50-50---
+
+TF-IDF
+
+Validation Set Scores
+Accuracy:  0.719389184645559
+Specificity:  0.847798204360838
+Recall:  0.47520325203252034
+Precision:  0.621477937267411
+F1-score:  0.5385855793595946
+AUC:  0.6615007281966792
+
+Test Set Scores
+Accuracy:  0.878029294274301
+Specificity:  0.9650432050274941
+Recall:  0.6947890818858561
+Precision:  0.9041980624327234
+F1-score:  0.7857811038353602
+AUC:  0.8299161434566751
+
+-----------------------------
+
+Bag-of-Words
+
+Validation Set Scores
+Accuracy:  0.6856262258335668
+Specificity:  0.725309961522018
+Recall:  0.6101626016260162
+Precision:  0.5387652548456568
+F1-score:  0.5722455203964925
+AUC:  0.6677362815740171
+
+Test Set Scores
+Accuracy:  0.8047936085219707
+Specificity:  0.8024351924587588
+Recall:  0.8097601323407775
+Precision:  0.6605937921727395
+F1-score:  0.7276105536975102
+AUC:  0.8060976623997682
+
+=============================
+
+---Train Data Split 80-20---
+
+TF-IDF
+
+Validation Set Scores
+Accuracy:  0.7709281961471103
+Specificity:  0.9021913415285944
+Recall:  0.5213414634146342
+Precision:  0.7370689655172413
+F1-score:  0.6107142857142858
+AUC:  0.7117664024716143
+
+Test Set Scores
+Accuracy:  0.8838881491344873
+Specificity:  0.9520816967792616
+Recall:  0.7402812241521919
+Precision:  0.880039331366765
+F1-score:  0.8041329739442947
+AUC:  0.8461814604657267
+
+---------------------------------
+
+Bag-of-Words
+
+Validation Set Scores
+Accuracy:  0.7660245183887916
+Specificity:  0.8679850347407804
+Recall:  0.5721544715447154
+Precision:  0.6950617283950618
+F1-score:  0.6276477146042364
+AUC:  0.7200697531427479
+
+Test Set Scores
+Accuracy:  0.8359520639147803
+Specificity:  0.868421052631579
+Recall:  0.7675765095119934
+Precision:  0.7347585114806018
+F1-score:  0.7508090614886732
+AUC:  0.8179987810717863
+
+===============================
+
+---Train Data Split 75-25---
+
+TF-IDF
+
+Validation Set Scores
+Accuracy:  0.7856542448865228
+Specificity:  0.8982471141513467
+Recall:  0.5715447154471545
+Precision:  0.7470775770456961
+F1-score:  0.6476278212805159
+AUC:  0.7348959147992506
+
+Test Set Scores
+Accuracy:  0.8828229027962716
+Specificity:  0.9552238805970149
+Recall:  0.7303556658395368
+Precision:  0.8856569709127382
+F1-score:  0.8005439709882141
+AUC:  0.8427897732182759
+
+--------------------------------
+
+Bag-of-Words
+
+Validation Set Scores
+Accuracy:  0.77780891005884
+Specificity:  0.8533561351004703
+Recall:  0.6341463414634146
+Precision:  0.6945681211041852
+F1-score:  0.6629834254143646
+AUC:  0.7437512382819425
+
+Test Set Scores
+Accuracy:  0.8391478029294275
+Specificity:  0.8695993715632364
+Recall:  0.7750206782464847
+Precision:  0.7383766745468873
+F1-score:  0.7562550443906375
+AUC:  0.8223100249048605

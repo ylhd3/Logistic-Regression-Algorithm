@@ -1,0 +1,41 @@
+Iteration 30 Evaluation Metrics
+
+---Train Data Split 80-20  (TweetText and Username)---
+
+TF-IDF
+
+Validation Set Scores
+Accuracy:  0.7478108581436077
+Specificity:  0.874933190807055
+Recall:  0.5060975609756098
+Precision:  0.680327868852459
+F1-score:  0.5804195804195804
+AUC:  0.6905153758913324
+
+Test Set Scores
+Accuracy:  0.8908122503328895
+Specificity:  0.9575805184603299
+Recall:  0.750206782464847
+Precision:  0.8935960591133005
+F1-score:  0.8156474820143885
+AUC:  0.8538936504625884
+
+-----------------------------------------------------
+
+Bag-of-Words
+
+Validation Set Scores
+Accuracy:  0.7845884413309983
+Specificity:  0.9711384286477819
+Recall:  0.4298780487804878
+Precision:  0.8867924528301887
+F1-score:  0.5790554414784393
+AUC:  0.7005082387141348
+
+Test Set Scores
+Accuracy:  0.6601864181091878
+Specificity:  0.9662215239591516
+Recall:  0.015715467328370553
+Precision:  0.18095238095238095
+F1-score:  0.028919330289193298
+AUC:  0.49096849564376105

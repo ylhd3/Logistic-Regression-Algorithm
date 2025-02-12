@@ -1,0 +1,41 @@
+Iteration 33 Evaluation Metrics
+
+---Train Data Split 80-20---
+
+TF-IDF
+
+Validation Set Scores
+Accuracy:  0.8713715046604528
+Specificity:  0.9336213668499608
+Recall:  0.7402812241521919
+Precision:  0.8411654135338346
+F1-score:  0.7875054993400792
+AUC:  0.8369512955010762
+
+Test Set Scores
+Accuracy:  0.8713715046604528
+Specificity:  0.9336213668499608
+Recall:  0.7402812241521919
+Precision:  0.8411654135338346
+F1-score:  0.7875054993400792
+AUC:  0.8369512955010762
+
+-----------------------------
+
+Bag-of-Words
+
+Validation Set Scores
+Accuracy:  0.8503328894806924
+Specificity:  0.9139827179890023
+Recall:  0.7162944582299421
+Precision:  0.7981566820276498
+F1-score:  0.7550130775937226
+AUC:  0.8151385881094723
+
+Test Set Scores
+Accuracy:  0.8503328894806924
+Specificity:  0.9139827179890023
+Recall:  0.7162944582299421
+Precision:  0.7981566820276498
+F1-score:  0.7550130775937226
+AUC:  0.8151385881094723

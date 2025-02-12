@@ -1,0 +1,48 @@
+Iteration 32 Evaluation Metrics
+
+---Train Data Split 80-20---
+
+TF-IDF Fine-Tuning Results
+
+Best score:  0.6975377326824213
+Best Parameters:  {'C': 0.8, 'max_iter': 150, 'multi_class': 'auto', 'n_jobs': -1, 'penalty': 'l2', 'solver': 'lbfgs', 'tol': 0.0001}
+
+----------------------------
+
+TF-IDF
+
+Validation Set Scores
+Accuracy:  0.7457092819614711
+Specificity:  0.8824158204168894
+Recall:  0.48577235772357724
+Precision:  0.6848137535816619
+F1-score:  0.5683709869203328
+AUC:  0.6840940890702334
+
+Test Set Scores
+Accuracy:  0.8937416777629827
+Specificity:  0.9646504320502749
+Recall:  0.7444168734491315
+Precision:  0.9090909090909091
+F1-score:  0.8185538881309686
+AUC:  0.8545336527497032
+
+-----------------------------
+
+Bag-of-Words
+
+Validation Set Scores
+Accuracy:  0.7838879159369527
+Specificity:  0.914484233030465
+Recall:  0.5355691056910569
+Precision:  0.7671033478893741
+F1-score:  0.6307600239377619
+AUC:  0.7250266693607609
+
+Test Set Scores
+Accuracy:  0.8668442077230359
+Specificity:  0.9257659073055774
+Recall:  0.7427626137303557
+Precision:  0.8261269549218031
+F1-score:  0.7822299651567944
+AUC:  0.8342642605179666

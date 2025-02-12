@@ -1,0 +1,11 @@
+---Iteration 4---
+Accuracy using the 'accuracy_score' function:  0.703595206391478
+
+--Evaluation Metrics--
+
+Accuracy:  0.703595206391478
+Specificity:  0.8008641005498822
+Recall:  0.4987593052109181
+Precision:  0.5432432432432432
+F1-score:  0.5200517464424321
+AUC:  0.6498117028804001
